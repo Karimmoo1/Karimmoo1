@@ -11,7 +11,7 @@
 
 | Project | Description |
 |:---|:---|
-| [NLP-Final-Exam-Generator](https://github.com/Karimmoo1/NLP-Final-Exam-Generator) | Automated exam creation covering semantic analysis, parsing, NLG—parses 10 lecture PDFs and generates multiple-choice, true/false, completion, and short-answer questions with answer keys and slide references. |
+| [Fruit-Classification-Project](https://github.com/Karimmoo1/fruit-classification-project) | End-to-end CNN pipeline using TensorFlow/Keras and MobileNetV2 to classify fruit images. Includes data loading & preprocessing (`cv2`, `numpy`), real-time augmentation (`ImageDataGenerator`), transfer learning, training with early stopping, accuracy & loss plots, and sample inference scripts. |
 
 > More projects coming soon!
 
