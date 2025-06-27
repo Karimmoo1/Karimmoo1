@@ -7,7 +7,7 @@
 
 ---
 
-## 🔭 Latest Data Science Project
+## 🔭 Latest Projects
 
 | Project | Description |
 |:---|:---|
