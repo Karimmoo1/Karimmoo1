@@ -16,7 +16,7 @@ I build AI systems end to end: clean the data, train the model, evaluate it hone
 |---|---|---|
 | 🌱 **[AgriVision AI](https://github.com/Karimmoo1/REPO-NAME)** *(team graduation project, I built the AI/ML side)* | Plant disease detection, a RAG assistant for disease treatment info, and an explainable crop recommender for Egyptian agriculture | MobileNetV2 · FAISS · Sentence Transformers · Llama 3.1 (Groq) · Random Forest |
 | 👤 **[Face Detection & Recognition](https://github.com/Karimmoo1/face-recognition-facenet)** | Real-time webcam face recognition using face embeddings and cosine similarity | PyTorch · MTCNN · FaceNet · OpenCV |
-| 💰 **[Adult Income Prediction](https://github.com/Karimmoo1/REPO-NAME)** | Predicts income > $50K; compares 6 classifiers with SMOTE for class imbalance | scikit-learn · SMOTE · pandas |
+| 💰 **[Adult Income Prediction](https://github.com/Karimmoo1/Adult-Income-Prediction-ML)** | Predicts income > $50K; compares 6 classifiers with SMOTE for class imbalance | scikit-learn · SMOTE · pandas |
 | 📩 [SMS Spam Classifier](https://github.com/Karimmoo1/sms-spam-classifier) | NLP pipeline: text cleaning, TF-IDF, and a comparison of seven models | scikit-learn · TF-IDF |
 | 🌦️ [Weather Condition Classifier](https://github.com/Karimmoo1/Weather-Condition-Classifier) | CNN that recognizes 11 weather phenomena from images | TensorFlow/Keras |
 | 🍎 [Fruit Classification](https://github.com/Karimmoo1/fruit-classification-project) | Transfer learning with MobileNetV2 for fruit images | TensorFlow/Keras |
